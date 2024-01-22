@@ -113,3 +113,22 @@
     
   }
 }
+.arrowButtons {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 10px;
+}
+
+.arrowButton {
+  background-color: transparent;
+  color: white;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+}
+
+.arrowButton:hover {
+  color: #07090a;
+}
+
