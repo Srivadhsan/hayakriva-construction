@@ -11,6 +11,10 @@
 # production
 /build
 
+# Docker-specific files
+Dockerfile
+.dockerignore
+
 # misc
 .DS_Store
 .env.local
